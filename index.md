@@ -26,4 +26,13 @@ Example:
 
 ![SAMPLE IMAGE of Thai Demon](https://octodex.github.com/images/yaktocat.png)
 
+So basically, I have to initiate a pull request for the currently-working-draft branch and compare it to the main branch for a pull request to be possbile. 
+
+Then I should edit the index.md and add the edits and submit the addtions for merge and branch consolidation? 
+
+---
+
+
+
+
 
