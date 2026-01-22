@@ -1,3 +1,13 @@
+# Excersises Parts 1-6 Markdown Github Work-Repo: 
+
+[[_TOC_]]
+
+---
+
+## Part One: Github Markdown Syntax for headers: 
+
+
+```
 # This is Header 1 
 
 ## This is Header 2 
@@ -10,6 +20,9 @@
 
 
 ###### This is Header 
+```
+
+FYI: 
 
 - Header 6 is the lowest possible Header in Github Flavored Markdown Syntax! 
 
@@ -69,6 +82,7 @@ sample JSON
 Codeblock added above. 
 
 ---
+
 
 
 
