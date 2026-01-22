@@ -12,3 +12,27 @@
 ###### This is Header 
 
 - Header 6 is the lowest possible Header in Github Flavored Markdown Syntax! 
+
+---
+
+## Excersise Part 2: Adding Images via Markdown (Git) 
+
+The basics syntax for performing the edit is: 
+Add bang in the very begining: ex) !
+
+["The Header or Image Desc"]("The URL or Path to the image in question")
+
+Example: 
+
+![SAMPLE IMAGE of Thai Demon](https://octodex.github.com/images/yaktocat.png)
+
+So basically, I have to initiate a pull request for the currently-working-draft branch and compare it to the main branch for a pull request to be possbile. 
+
+Then I should edit the index.md and add the edits and submit the addtions for merge and branch consolidation? 
+
+---
+
+
+
+
+
