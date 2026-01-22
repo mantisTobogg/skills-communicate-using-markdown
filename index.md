@@ -32,6 +32,46 @@ Then I should edit the index.md and add the edits and submit the addtions for me
 
 ---
 
+## Excersises Part 3: Adding In-line code blocks for JS and others 
+
+sample JSON 
+
+```json
+{
+  "Title": "Graph response output",
+  "Details": {
+    "@odata.context": "https://graph.microsoft.com/beta/$metadata#deviceManagement/deviceEnrollmentConfigurations/$entity",
+    "@odata.type": "#microsoft.graph.deviceEnrollmentPlatformRestrictionConfiguration",
+    "id": "6f3fac11-99f5-4808-983c-43dee3fc6b31_SinglePlatformRestriction",
+    "displayName": "Windows 기기 등록 허용",
+    "description": "Windows 기기 등록 허용",
+    "priority": 1,
+    "createdDateTime": "2021-11-26T05:15:21.4365643Z",
+    "lastModifiedDateTime": "2025-01-03T05:38:56.0093602Z",
+    "version": 4,
+    "roleScopeTagIds": [
+      "0"
+    ],
+    "deviceEnrollmentConfigurationType": "singlePlatformRestriction",
+    "platformType": "android",
+    "platformRestriction": {
+      "platformBlocked": false,
+      "personalDeviceEnrollmentBlocked": false,
+      "osMinimumVersion": null,
+      "osMaximumVersion": null,
+      "blockedManufacturers": [],
+      "blockedSkus": []
+    }
+  }
+}
+```
+
+Codeblock added above. 
+
+---
+
+
+
 
 
 
