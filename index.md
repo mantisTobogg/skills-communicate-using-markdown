@@ -83,6 +83,23 @@ Codeblock added above.
 
 ---
 
+## PART 4: Adding To-Do list via Markdown Syntax. 
+
+GUIDE: 
+```
+- [] Have you checked the branch you are editing the code on?
+- [] ARE YOU SURE??
+- [] I dont think so?
+```
+
+Testing checklist Syntax. Perhaps filling in the check box is possbile with a ALL_CAPS "X"? Lets try that. 
+
+- [X] Testing Checklist syntax number one!
+- [ ] YES given that the checklist is automatically input IF the previous one has an X in the brackets, it does indeed appear to be correct.
+- [ ] YEAH BABY, lets goo
+
+---
+
 
 
 
